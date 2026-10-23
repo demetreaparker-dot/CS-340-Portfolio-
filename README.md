@@ -44,6 +44,3 @@ I also learned the importance of reusable code, troubleshooting, and testing ind
 
 As I continue working toward my computer science degree, I plan to build on these skills and apply them to future software engineering and database development projects.
 
-## AI Assistance Acknowledgment
-
-I used ChatGPT (OpenAI) to assist with troubleshooting Python and MongoDB code, understanding dashboard requirements, and drafting portions of my project documentation and portfolio reflection. I reviewed and tested the application in my development environment.
